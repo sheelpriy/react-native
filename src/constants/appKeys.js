@@ -1,0 +1,2 @@
+export const FACEBOOK_APPID = "1741998085914971";
+export const GOOGLE_APPID = "AIzaSyDUg6j2CQPxac1cPDkaLygIp8yw7YZmZC4";

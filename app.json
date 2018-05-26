@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "metvy",
+    "description": "This project is really great.",
+    "slug": "metvy",
+    "privacy": "public",
+    "sdkVersion": "27.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "facebookAppId": "1741998085914971",
+    "facebookDisplayName": "sheel on work",
+    "androidStatusBar": {
+      "barStyle": "dark-content",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "googleMapsApiKey": "AIzaSyDUg6j2CQPxac1cPDkaLygIp8yw7YZmZC4",
+      }
+    }
+  
+  }
+}
